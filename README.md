@@ -3,6 +3,7 @@
 The central command for your digital footprint in the AI era.  
 Track, manage, and monetize how your personal data is used by AI models and applications.
 
+CA pump.fun : xxxxxxxxxxpump
 ---
 
 ## Overview
